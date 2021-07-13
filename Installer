@@ -1,0 +1,39 @@
+apt update
+apt update --fix-missing
+apt upgrade
+pkg update
+apt-get install python
+apt-get install python3-pip
+apt-get install python2
+apt install nano
+apt install neovim
+apt install ranger
+apt install figlet
+apt install toilet
+apt install ruby
+gem install lolcat
+apt install cowsay
+apt install tar
+apt install php
+apt install wget
+apt install curl
+apt install cmatrix
+apt install sl
+apt install libcaca
+apt install w3m
+apt install gdebi
+apt install cmatrix
+apt install fish
+apt install tor
+apt install nmap
+apt install openssh
+apt install uncompyle6
+apt install ffmpeg
+pip install youtube-dl
+pip install --upgrade pip youtube-dl
+git clone https://github.com/Guti-Baba/IMEI-Country
+git clone https://github.com/Guti-Baba/Compile
+git clone https://github.com/Guti-Baba/GB-YTD
+git clone https://github.com/sqlmapproject/sqlmap
+git clone --depth 1 https://github.com/sqlmapproject/sqlmap.git sqlmap-dev
+git clone https://gitlab.com/Sumarr-ID/anti_dec
