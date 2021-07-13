@@ -1,36 +1,36 @@
 apt update
 apt update --fix-missing
-apt upgrade
+apt upgrade -y
 pkg update
-apt-get install python
+apt-get install python -y
 apt-get install python3-pip
-apt-get install python2
-apt install nano
-apt install neovim
-apt install ranger
-apt install figlet
-apt install toilet
-apt install ruby
-gem install lolcat
-apt install cowsay
-apt install tar
-apt install php
+apt-get install python2 -y
+apt install nano -y
+apt install neovim -y
+apt install ranger -y
+apt install figlet -y
+apt install toilet -y
+apt install ruby -y
+gem install lolcat -y
+apt install cowsay -y
+apt install tar -y
+apt install php -y
 apt install wget
-apt install curl
+apt install curl -y
 apt install cmatrix
-apt install sl
-apt install libcaca
-apt install w3m
+apt install sl -y
+apt install libcaca -y
+apt install w3m -y
 apt install gdebi
-apt install cmatrix
-apt install fish
-apt install tor
-apt install nmap
-apt install openssh
-apt install uncompyle6
-apt install ffmpeg
+apt install cmatrix -y
+apt install fish -y
+apt install tor -y
+apt install nmap -y
+apt install openssh -y
+apt install ffmpeg -y
 pip install youtube-dl
 pip install --upgrade pip youtube-dl
+apt install uncompyle6
 git clone https://github.com/Guti-Baba/IMEI-Country
 git clone https://github.com/Guti-Baba/Compile
 git clone https://github.com/Guti-Baba/GB-YTD
